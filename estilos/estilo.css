@@ -1,0 +1,77 @@
+header{
+    background-color: #673ab7;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+main{
+    clear: both;
+}
+
+.equipo{
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.equipo-estadio{
+    color: #673ab7;
+}
+
+.competicion-logo{
+    height: 100px;
+}
+
+body{
+    font-family: 'Lato',sans-serif;
+}
+
+header{
+    background-color: #673ab7;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+
+}
+
+.equipo{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    -webkit-box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.8);
+}
+
+.fundacion{
+    color: white;
+}
+
+.equipo-nombre{
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    -webkit-text-stroke-color: black;
+}
+
+.equipo-imagen{
+    height: 120px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.equipo-estadio{
+    border-bottom: #673ab7;
+    border-top: #673ab7;
+    color: #673ab7;
+    padding: 10px;
+    margin: 20px;
+}
+
+.equipo-boton{
+    color:#673ab7;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    left: 30%;
+}
